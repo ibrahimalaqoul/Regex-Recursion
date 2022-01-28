@@ -2,7 +2,9 @@
     "name": "Regex-Recursion",
     "version": "1.0.0",
     "description": "",
-    "main": "recursion.test.js",
+
+    "main": "regex.test.js",
+
     "scripts": {
       "test": "jest"
     },
