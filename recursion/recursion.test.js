@@ -8,8 +8,10 @@ function division(number, dividedBy){
         return 0;
     } else if (number === dividedBy) {
         return 1;
-    } else { 
-    } return number/dividedBy
+    } else { let newNumber =1;
+        return (newNumber+division(number-dividedBy,dividedBy));
+
+    } 
 
 }
 
